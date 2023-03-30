@@ -34,7 +34,7 @@ Follow the [Chart.js `getting-started` guide](https://www.chartjs.org/docs/lates
 * Add a `<div>` and `<canvas>` element to your HTML
 * Add a `<script>` tag to your HTML that imports Chart.js from a CDN
 * In your JS, define a `config`, `labels`, and `data` object
-* Finally, again in your JS write code to render a chart (Note: in the guide this is shown inside of a `<script>` tag. You can disregard this and instead put the code inside the `<script>` tag at the bottom of your JS)
+* Finally, again in your JS write code to render a chart (Note: in the guide this is shown inside of a `<script>` tag. You can disregard this and instead put the code in your JS)
 
 ## Challenge 2
 
